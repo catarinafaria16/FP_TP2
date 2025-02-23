@@ -9,7 +9,7 @@ public class MainPessoas {
         int idade = sc.nextInt();
         System.out.println("Insira o peso: ");
         double peso = sc.nextDouble();
-        System.out.println("Insira o altura: ");
+        System.out.println("Insira o altura em metros: ");
         double altura = sc.nextDouble();
 
         Pessoas pessoas = new Pessoas();
