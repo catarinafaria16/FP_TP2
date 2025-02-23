@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
                 Cilindro cilindro = new Cilindro();
                 cilindro.setRaio(2);
-                cilindro.setAltura(3);
+                cilindro.setAltura(6);
 
                 Cilindro cil2=new Cilindro();
                 cil2.setRaio(3);
